@@ -1,4 +1,4 @@
-# 📊 Análise de Cancelamentos com Python | Data Analytics & Business Insights
+# 📊 Análise de Dados com Python | Data Analytics & Business Insights
 
 ## 📌 Visão Geral
 Este projeto realiza uma **análise de dados completa utilizando Python e Pandas**, com o objetivo de **entender os principais fatores que influenciam o cancelamento de clientes** e propor **ações estratégicas para redução do churn**.
